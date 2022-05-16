@@ -1,3 +1,6 @@
+The published application can be found at https://ricardoliu99.github.io/react-arithmetic-quizzer-app/
+
+
 How to use the application?  
 
 
