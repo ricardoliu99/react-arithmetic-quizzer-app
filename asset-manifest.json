@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-arithmetic-quizzer-app/static/css/main.60a63677.css",
+    "main.js": "/react-arithmetic-quizzer-app/static/js/main.c179d144.js",
+    "index.html": "/react-arithmetic-quizzer-app/index.html",
+    "main.60a63677.css.map": "/react-arithmetic-quizzer-app/static/css/main.60a63677.css.map",
+    "main.c179d144.js.map": "/react-arithmetic-quizzer-app/static/js/main.c179d144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a63677.css",
+    "static/js/main.c179d144.js"
+  ]
+}
